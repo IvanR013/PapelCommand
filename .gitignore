@@ -1,2 +1,5 @@
 *.bat
 .pypirc
+venv
+build
+*.venv

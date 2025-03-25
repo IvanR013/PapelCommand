@@ -9,7 +9,7 @@ Papel is a Python console command to instantly move files to the recycle bin. Co
 ## Instalación / Installation
 
 
-pip install papel´
+pip install papel
 
 ## Cómo usarlo / How to use
 
