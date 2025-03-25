@@ -1,0 +1,9 @@
+LICENSE
+papel.py
+setup.py
+papel.egg-info/PKG-INFO
+papel.egg-info/SOURCES.txt
+papel.egg-info/dependency_links.txt
+papel.egg-info/entry_points.txt
+papel.egg-info/requires.txt
+papel.egg-info/top_level.txt

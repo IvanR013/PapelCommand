@@ -1,0 +1,2 @@
+[console_scripts]
+papel = papel:move_to_trash

@@ -1,0 +1,44 @@
+# Papel
+
+Papel es un comando de consola para Python que permite mover archivos de manera instantánea a la papelera de reciclaje. Compatible con **Windows**, **macOS** y **Linux**.
+
+Papel is a Python console command to instantly move files to the recycle bin. Compatible with **Windows**, **macOS**, and **Linux**.
+
+---
+
+## Instalación / Installation
+
+
+pip install papel´
+
+## Cómo usarlo / How to use
+
+
+papel nombredetuarchivo´
+
+## En macOS / On macOS
+
+papel /ruta/del/archivo.txt
+
+## On Linux / En Linux
+
+papel /ruta/del/archivo.txt
+
+
+Cuando ejecutes el comando, **se te pedirá confirmación** para asegurarte de que realmente deseas mover el archivo a la papelera.
+
+Once you run the command, **it will ask for confirmation** to make sure you really want to move the file to the recycle bin.
+
+------
+## Contribuciones / Contributions
+
+
+Si quieres contribuir al desarrollo de Papel como proyecto de código abierto, siéntete libre de hacer un fork/clone del repositorio y enviar tus pull requests. ¡Todo tipo de ayuda es bienvenida!
+
+If you want to contribute to the development of Papel as open source proyect, feel free to fork/clone the repository and send your pull requests. Any help is appreciated!
+
+## Licencia / License
+
+Este proyecto está licenciado bajo la **Licencia MIT**. See the LICENSE file for more details.
+
+This project is licensed under the **MIT License**. See the LICENSE file for more details.
