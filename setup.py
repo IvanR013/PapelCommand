@@ -12,6 +12,7 @@ setup(
     },
     author='Iván Rodriguez',
     description='In Windows, macOS & Linux, allows you to move instantly any file to recycle bin.',
+    author_email='ivanrwcm25@gmail.com',
     long_description=open('README.mkd').read(),
     long_description_content_type='text/markdown',
     url='https://github.com/IvanR013/PapelCommand.git',
