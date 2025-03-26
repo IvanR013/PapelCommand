@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: papel
-Version: 1.0.0
+Version: 1.1.0
 Summary: In Windows, macOS & Linux, allows you to move instantly any file to recycle bin.
 Home-page: https://github.com/IvanR013/PapelCommand.git
 Author: Iván Rodriguez
@@ -34,7 +34,7 @@ Papel is a Python console command to instantly move files to the recycle bin. Co
 ## Instalación / Installation
 
 
-pip install papel´
+pip install papel
 
 ## Cómo usarlo / How to use
 
